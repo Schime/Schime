@@ -1,5 +1,4 @@
 # 🏄‍♂️ Schime
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB6ZzVzN2NtbDR4bXA1MzI1NnVhenB5MTZmeXJiMm9oNTc1amlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" 
   align="right" 
   width="250" 
@@ -8,7 +7,9 @@
 
 **`Tech Nerd`**
 
-  I'm a software engineering student pursuing a masters degree in Computer Science.
+  I'm a software engineering student pursuing a master's degree in computer engineering. I have a strong interest in applying programming expertise in the world of technology.
+  
+  Currently, I'm working on my master's thesis, which is related to `parachain-xcm-communication` repository.
 
 ---
 
@@ -23,3 +24,10 @@
 ![Docker](https://img.shields.io/badge/docker-hi?style=for-the-badge&logo=Docker&logoColor=white&color=%232496ED)
 ![Firebase](https://img.shields.io/badge/firebase-hi?style=for-the-badge&logo=Firebase&logoColor=white&color=%23DD2C00)
 ![Arduino](https://img.shields.io/badge/arduino-hi?style=for-the-badge&logo=Arduino&logoColor=white&color=%2300878F)
+
+---
+### 📩 Contact Me
+   <p align="left">
+      <a href="https://linktr.ee/schime01">
+         <img alt="portfolio website" title="Contact Me!" src="https://img.shields.io/badge/linktree-hi?style=for-the-badge&logo=Linktree&logoColor=black&color=9AD872"/></a>
+   </p>
