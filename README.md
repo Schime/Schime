@@ -11,6 +11,13 @@
   
   Currently, I'm working on my master's thesis, which is related to `parachain-xcm-communication` repository.
 
+
+  Besides contributing to the digital world, in the physical one I also enjoy:
+  - playing table tennis
+  - reading good books
+  - diving into the rabbit hole of an interesting topic
+
+
 ---
 
 ### 🧰 Languages and Tools
